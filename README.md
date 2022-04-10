@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **isactes/isactes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+I'm a beginner front end developer Looking for a full time developer position!
+Skills that i´am learning
+
