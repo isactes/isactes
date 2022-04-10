@@ -1,21 +1,16 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
 
-**I'm a beginner front end developer Looking for a full time developer position!.
+<h2>I'm a beginner front end developer Looking for a full time developer position!.</h2>
 
-Skills that i´am learning:
+<h2>Skills that i´am learning:</h2>
 
-- 🔭 Front End Languages...
-- HTMl
-- Css
-- JAvascript
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+   <ul>
+        <h2>Front End Languages </h2>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Javascript</li>
+    </ul>
 
 
 
