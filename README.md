@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 
-**isactes/isactes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a beginner front end developer Looking for a full time developer position!.
 
-Here are some ideas to get you started:
+Skills that i´am learning:
 
-- 🔭 I’m currently working on ...
+- 🔭 Front End Languages...
+- HTMl
+- Css
+- JAvascript
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,6 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-I'm a beginner front end developer Looking for a full time developer position!
-Skills that i´am learning
+
 
