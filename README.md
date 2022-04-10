@@ -6,14 +6,14 @@
 <h2>Skills that I´am learning:</h2>
 
    <ul>
-        <h2>Front End Languages:</h2>
+        <h2>💻Front End Languages:</h2>
         <li>HTML</li>
         <li>CSS</li>
         <li>Javascript</li>
     </ul>
     
    <ul>
-        <h2>Front End Franwork/Libraries:</h2>
+        <h2>🖥️Front End Franwork/Libraries:</h2>
         <li>jQuery</li>
     </ul>
    <ul>
