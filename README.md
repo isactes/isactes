@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 
 
-<h2>I'm a beginner front end developer Looking for a full time developer position!.</h2>
+<h2>I'm a beginner  to be a frontend Developer!.</h2>
 
 <h2>🔰Skills that I´am learning:</h2>
 
