@@ -13,7 +13,7 @@
     </ul>
     
    <ul>
-        <h2>🖥️Front End Franwork/Libraries:</h2>
+        <h2>🖥️Front End Framework/Libraries:</h2>
         <li>jQuery</li>
     </ul>
    <ul>
