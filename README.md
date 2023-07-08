@@ -10,11 +10,14 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>Javascript</li>
+        <li>Sass</li>
     </ul>
     
    <ul>
         <h2>🖥️Front End Framework/Libraries:</h2>
-        <li>jQuery</li>
+        <li>Mysql</li>
+        <li>React</li>
+        <li>Next13 js</li>
     </ul>
    <ul>
         <h2>🌃CSS Libraries:</h2>
@@ -34,6 +37,6 @@
    <h3>📧Contact</h3>
    
    
-   ## [ Look at my portfolio ](https://isac-portfolio.netlify.app/)
+   ## [ Look at my portfolio update coming zoom ](https://isac-portfolio.netlify.app/)
 
 
