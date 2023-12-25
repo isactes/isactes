@@ -19,7 +19,7 @@
 	};
 ```
 
-## Find me arounf the web 🌎
+## Find me 🛰
  - 🐦 [X](https://twitter.com/isactes)
  - 📸 [Instagram](https://www.instagram.com/isactes__coding/)
  - 📰 [Portfolio](https://isac-portfolio.netlify.app/)
