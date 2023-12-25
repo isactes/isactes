@@ -14,7 +14,7 @@
 		languages: [Javascript, HTML, CSS, Typescript],
 		learning: ['Frontend', 'Backend'],
 		frameworks_technologies: ['React', 'Bootstrap', 'Next', 'Tailwind'],
-        	designer: ['Figma']
+        	designer: ['Figma'],
 		fav_food: [🌮, 🍔, ☕]
 	};
 ```
