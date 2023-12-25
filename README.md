@@ -1,42 +1,25 @@
-<h1>No Matter what, you keep finding something to fithg for</h1>
+## Hi there! I'm Isac  🎧🎮💻
+
+ *No matter what, you keep finding something to fithg for 🎮*
+ 
+ I'm a beginner to be a frontend Developer!. 
+
+⭐ I learning something new I like to create apps and examples and share them here so that my future self is not so lost. If my examples help you, welcome to my space 🤔.
 
 
-<h2>I'm a beginner  to be a frontend Developer!.</h2>
+#### About me:
+```javascript
+	const Isac = {
+		pronouns: ['he', 'him'],
+		languages: [Javascript, HTML, CSS, Typescript],
+		learning: ['Frontend', 'Backend'],
+		frameworks_technologies: ['React', 'Bootstrap', 'Next', 'Tailwind'],
+        designer: ['Figma']
+		fav_food: [🌮, 🍔, ☕]
+	};
+```
 
-<h2>🔰Skills that I´am learning:</h2>
-
-   <ul>
-        <h2>💻Front End Languages:</h2>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Javascript</li>
-        <li>Sass</li>
-    </ul>
-    
-   <ul>
-        <h2>🖥️Front End Framework/Libraries:</h2>
-        <li>Mysql</li>
-        <li>React</li>
-        <li>Next13 js</li>
-    </ul>
-   <ul>
-        <h2>🌃CSS Libraries:</h2>
-        <li>Boostrap</li>
-    </ul>
-   <ul>
-        <h2>🔥Authentication:</h2>
-        <li>Firebase</li>
-    </ul>
-   <ul>
-        <h2>📸Designer:</h2>
-        <li>Figma</li>
-        <li>Fast Report</li>
-        <li>Photoshop Cs6</li>
-    </ul>
-
-   <h3>📧Contact</h3>
-   
-   
-   ## [ Look at my portfolio update coming zoom ](https://isac-portfolio.netlify.app/)
-
-
+## Find me arounf the web 🌎
+ - 🐦 [X](https://twitter.com/isactes)
+ - 📸 [Instagram](https://www.instagram.com/isactes__coding/)
+ - 📰 [Portfolio](https://isac-portfolio.netlify.app/)
