@@ -16,7 +16,7 @@
 		frameworks_technologies: ['React', 'Bootstrap', 'Next', 'Tailwind'],
         	designer: ['Figma'],
 		fav_food: ['🌮', '🍔', '☕'].
-		console: ['PS5']
+		console: ['PS5'],
 		videogames: [
     			{"name": "The last of us"},
     			{"name": "God of war"},
