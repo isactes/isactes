@@ -15,7 +15,7 @@
 		learning: ['Frontend', 'Backend'],
 		frameworks_technologies: ['React', 'Bootstrap', 'Next', 'Tailwind'],
         	designer: ['Figma'],
-		fav_food: ['🌮', '🍔', '☕'].
+		fav_food: ['🌮', '🍔', '☕'],
 		console: ['PS5'],
 		videogames: [
     			{"name": "The last of us"},
