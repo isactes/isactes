@@ -15,11 +15,25 @@
 		learning: ['Frontend', 'Backend'],
 		frameworks_technologies: ['React', 'Bootstrap', 'Next', 'Tailwind'],
         	designer: ['Figma'],
-		fav_food: [🌮, 🍔, ☕]
-	};
+		fav_food: ['🌮', '🍔', '☕'].
+		console: ['PS5']
+		videogames: [
+    			{"name": "The last of us"},
+    			{"name": "God of war"},
+    			{"name": "Uncharted"},
+    			{"name": "Remnant"},
+    			{"name": "Gears of War trilogy"}
+			]
+		};
 ```
 
 ## Find me 🛰
  - 🐦 [X](https://twitter.com/isactes)
  - 📸 [Instagram](https://www.instagram.com/isactes__coding/)
  - 📰 [Portfolio](https://isac-portfolio.netlify.app/)
+
+```sql
+UPDATE portfolio
+SET isactes = 'new_portfolio'
+WHERE isactes = learn_react;
+````
