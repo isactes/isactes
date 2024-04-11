@@ -2,7 +2,7 @@
 
  *No matter what, you keep finding something to fithg for 🎮*
  
- I'm a beginner to be a frontend Developer!. 
+ I'm a beginner to be a Developer!. 
 
 ⭐ I learning something new I like to create apps and examples and share them here so that my future self is not so lost. If my examples help you, welcome to my space 🤔.
 
