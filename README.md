@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Isac 🎧🎮💻<br>No matter what, you keep finding something to fithg for 🎮<br><br>I'm a beginner to be a Developer!.<br><br>⭐ I learning something new I like to create apps and examples and share them here so that my future self is not so lost. If my examples help you, welcome to my space 🤔.
+Hi there! I'm Isac 🎧🎮💻<br>No matter what, you keep finding something to fithg for 🎮<br><br>I'm a beginner to be a QA Engineer<br><br>⭐ I learning something new I like to create apps and examples about QA & Devs and share them here  so that my future self is not so lost. If my examples help you, welcome to my space 🤔.
 ```javascript
 	const Isac = {
 		pronouns: ['he', 'him'],
