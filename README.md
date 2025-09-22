@@ -25,11 +25,8 @@ Hi there! I'm Isac 🎧🎮💻<br>No matter what, you keep finding something to
 ![](https://github-readme-streak-stats.herokuapp.com/?user=isactes&theme=one_dark_pro&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isactes&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=isactes&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
